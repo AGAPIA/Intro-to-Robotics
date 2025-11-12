@@ -4,7 +4,7 @@
 
 \## Demo \& Code
 
-\- 🎥 Video: \[YouTube title here](https://youtu.be/5UD2rDWRh00)
+\- 🎥 Video: \[![Watch demo](thumb.png)](https://youtu.be/5UD2rDWRh00)
 
 \- 💻 Source code: \[GitHub repo](https://github.com/AGAPIAhttps://github.com/AGAPIA/Introduction-to-robotics/Homework4)
 
