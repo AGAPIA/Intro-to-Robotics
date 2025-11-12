@@ -10,13 +10,11 @@
 \- 💻 Source code: \[GitHub repo](https://github.com/AGAPIAhttps://github.com/AGAPIA/Introduction-to-robotics/Homework3)
 
 
-
 \# 4. Simon Says — Arduino UNO + 74HC595 + Joystick + 4×7-Seg (CC)
-
 
 
 \## Demo \& Code
 
-\- 🎥 Video: \[![Watch demo](thumb.png)](https://youtu.be/5UD2rDWRh00)
+\- 🎥 Video: \[![Watch demo](Homework4/thumb.png)](https://youtu.be/5UD2rDWRh00)
 
 \- 💻 Source code: \[GitHub repo](https://github.com/AGAPIAhttps://github.com/AGAPIA/Introduction-to-robotics/Homework4)
