@@ -1,7 +1,7 @@
 # Home Alarm System — Arduino UNO (Ultrasonic + LDR + LEDs + Buzzer)
 
 ## Demo & Code
-- 🎥 Video: [![Watch demo](thumb.png)](https://youtu.be/uOdt9c44fSI)
+- 🎥 Video: [![Watch demo](thumb.jpeg)](https://youtu.be/uOdt9c44fSI)
 
 ## Overview
 Non-blocking alarm with ultrasonic intrusion, LDR night auto-arm, buzzer, and dual LEDs.  
