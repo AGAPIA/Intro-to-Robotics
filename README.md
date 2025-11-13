@@ -4,7 +4,7 @@
 
 ### Demo & Code
 - 🎥 Video: [![Watch demo](Homework3/thumb.jpeg)](https://youtu.be/uOdt9c44fSI)
-- 💻 Source code: [GitHub repo (Homework 3 folder)](https://github.com/AGAPIA/Introduction-to-robotics/tree/main/Homework3)
+- 💻 Source code: [GitHub repo (Homework3)](https://github.com/AGAPIA/Intro-to-Robotics/tree/main/Homework3)
 
 ---
 
@@ -12,7 +12,7 @@
 
 ### Demo & Code
 - 🎥 Video: [![Watch demo](Homework4/thumb.png)](https://youtu.be/5UD2rDWRh00)
-- 💻 Source code: [GitHub repo (Homework 4 folder)](https://github.com/AGAPIA/Introduction-to-robotics/tree/main/Homework4)
+- 💻 Source code: [GitHub repo (Homework4)](https://github.com/AGAPIA/Intro-to-Robotics/tree/main/Homework4)
 
 # TODO:
 
