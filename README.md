@@ -18,3 +18,13 @@
 \- 🎥 Video: \[![Watch demo](Homework4/thumb.png)](https://youtu.be/5UD2rDWRh00)
 
 \- 💻 Source code: \[GitHub repo](https://github.com/AGAPIAhttps://github.com/AGAPIA/Introduction-to-robotics/Homework4)
+
+
+\# 5. Arduino 16x2 LCD Racing Game 🤖
+
+
+\## Demo \& Code
+
+\- 🎥 Video: \[![Watch demo](Homework5/thumb.jpg)](https://youtube.com/shorts/LMD9UQWjGQw?feature=share)
+
+\- 💻 Source code: \[GitHub repo](https://github.com/AGAPIAhttps://github.com/AGAPIA/Introduction-to-robotics/Homework5)
