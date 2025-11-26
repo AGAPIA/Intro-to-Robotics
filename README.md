@@ -20,6 +20,6 @@
 
 ### Demo & Code
 
-- 🎥 Video: \[![Watch demo](Homework5/thumb.jpg)](https://youtube.com/shorts/LMD9UQWjGQw?feature=share)
+- 🎥 Video: \[![Watch demo](Homework5/thumb.jpeg)](https://youtube.com/shorts/LMD9UQWjGQw?feature=share)
 
-- 💻 Source code: \[GitHub repo](https://github.com/AGAPIAhttps://github.com/AGAPIA/Introduction-to-robotics/Homework5)
+- 💻 Source code: \[GitHub repo (Homework5)](https://github.com/AGAPIA/Intro-to-Robotics/tree/main/Homework5)
