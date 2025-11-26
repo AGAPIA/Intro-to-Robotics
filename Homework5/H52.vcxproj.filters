@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Additional Files">
+      <UniqueIdentifier>{97db2191-99f6-4640-b074-8b5924da4398}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Arduino">
+      <UniqueIdentifier>{af781def-9f62-46fa-ab57-c5acad5c31fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core">
+      <UniqueIdentifier>{9233e06e-538f-4dfa-b2f4-3b5109867deb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PC">
+      <UniqueIdentifier>{0fd617da-ee9d-4987-b9b6-cfd813e1ccb4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="EEPROMHighscoreStore.h">
+      <Filter>Arduino</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>PC</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="MyLibraries.props">
+      <Filter>Additional Files</Filter>
+    </None>
+    <None Include="packages.config" />
+    <None Include="H52.ino">
+      <Filter>Arduino</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="LCDRenderer.h">
+      <Filter>Arduino</Filter>
+    </ClInclude>
+    <ClInclude Include="InputService.h">
+      <Filter>Arduino</Filter>
+    </ClInclude>
+    <ClInclude Include="GameController.h">
+      <Filter>Core</Filter>
+    </ClInclude>
+    <ClInclude Include="GameCore.h">
+      <Filter>Core</Filter>
+    </ClInclude>
+    <ClInclude Include="PcHighscoreStore.h">
+      <Filter>PC</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
