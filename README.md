@@ -1,5 +1,13 @@
 # Homeworks for FMI Course Intro-to-Robotics and related projects
 
+## 2. Arduino Traffic Lights with 7-Segment Countdown (Common-Cathode) — FSM Demo
+
+### Demo & Code
+- 🎥 Video: [![Watch demo](Homework2/thumb.jpeg)](https://youtu.be/nCo7Qcdx0ys)
+- 💻 Source code: [GitHub repo (Homework2)](https://github.com/AGAPIA/Intro-to-Robotics/tree/main/Homework2)
+
+
+
 ## 3. Home Alarm System — Arduino UNO (Ultrasonic + LDR + LEDs + Buzzer)
 
 ### Demo & Code
