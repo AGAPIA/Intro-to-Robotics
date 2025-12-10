@@ -3,7 +3,7 @@
 ## 2. Arduino Traffic Lights with 7-Segment Countdown (Common-Cathode) — FSM Demo
 
 ### Demo & Code
-- 🎥 Video: [![Watch demo](Homework2/thumb.png)](https://youtu.be/nCo7Qcdx0ys)
+- 🎥 Video: [![Watch demo](Homework2/Code/thumb.png)](https://youtu.be/nCo7Qcdx0ys)
 - 💻 Source code: [GitHub repo (Homework2)](https://github.com/AGAPIA/Intro-to-Robotics/tree/main/Homework2)
 
 
